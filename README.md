@@ -1,5 +1,5 @@
 # SQL-for-Data-Analysis
-This repository contains a collection of SQL scripts and resources designed for the in SQL course I've made with GFG.
+This repository contains a collection of SQL scripts and resources designed for the SQL course I've made with GFG.
 
 ## Introduction
 
@@ -15,7 +15,7 @@ SQL (Structured Query Language) is essential for managing and analyzing data in 
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/AshishJangra27/SQL-for-Data-Analysis.git
+git clone https://github.com/AyinalaVinayKumar/SQL-for-Data-Analysis.git
 cd SQL-for-Data-Analysis
 ```
 
@@ -30,7 +30,7 @@ cd SQL-for-Data-Analysis
    - Setting up your SQL environment and learning basic SQL syntax.
 
 3. **Data Retrieval with SQL**
-   - Retrieving data using `SELECT` statements.
+   - Data will be retrieved using `SELECT` statements.
 
 ### Week 2
 4. **Cases in SQL**
@@ -60,7 +60,7 @@ cd SQL-for-Data-Analysis
     - Using `LIKE` and regular expressions for pattern matching.
 
 12. **Aggregate Functions**
-    - Using functions like `SUM`, `AVG`, `COUNT` for data aggregation.
+    - Using functions like `SUM`, `AVG`, and `COUNT` for data aggregation.
 
 ### Week 5
 13. **Grouping and Filtering Data**
@@ -70,7 +70,7 @@ cd SQL-for-Data-Analysis
     - Using subqueries for complex data retrieval.
 
 15. **Joins in Action**
-    - Combining data from multiple tables using different types of joins.
+    - Data from multiple tables can be combined using different types of joins.
 
 ### Week 6
 16. **Set Operators in Action**
@@ -155,15 +155,15 @@ cd SQL-for-Data-Analysis
 
 ### Who am I?
 
-My name is Ashish and I'm an AI Trainer. I've trained more than 20000 students on different technologies like AI, Data Science, Computer Vision, and the Internet of Things. I'm passionate about teaching and giving students the skillset to learn cutting-edge skills.
+My name is A Vinay kumar, and I'm an AI Student. I've learned different technologies, such as AI, Data Science, Computer Vision, and Machine Learning. I'm passionate about Data Scientist and giving students the skills to learn cutting-edge skills.
 
 -----
 
 ### Other Useful Links:
 
-LinkedIn - https://linkedin.com/in/ashish-jangra 
+LinkedIn - https://www.linkedin.com/in/vinay-kumar-ayinala/
 
-Instagram - https://instagram.com/ashish_zangra 
+Instagram - https://www.instagram.com/silent_killer_3800/
 
-Facebook - https://facebook.com/ashishzangra
+GitHub - https://github.com/AyinalaVinayKumar
 
